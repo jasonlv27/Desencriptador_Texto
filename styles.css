@@ -11,7 +11,7 @@ body{
     left: 40px;
     gap: 40px;
 }
-.input{
+#input{
     position: absolute;
     width: 577px;
     height: 48px;
@@ -31,13 +31,13 @@ body{
     top: 100px;
     left: 1000px;
 }
-.munheco{
+#munheco{
     width: 336px;
     height: 304px;
     top: 283px;
     left: 1032px;
 }
-.text{
+#text{
     position: relative;
     width: 336px;
     height: 58px;
@@ -46,7 +46,7 @@ body{
     line-height: 28.8px;
     text-align: center;
 }
-.text2{
+#text2{
     position: relative;
     width: 336px;
     height: 48px;
@@ -98,4 +98,8 @@ p{
     padding: 24px;
     gap: 8px;
     background-color: #D8DFE8;
+}
+.exclamation{
+    width: 16px;
+    height: 16px;
 }
